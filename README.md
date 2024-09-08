@@ -1,10 +1,10 @@
 # Sentiment Analysis using Quantum Natural Language Processing (Q-NLP)
 
 ## Team Members
-Naveen Nidadavolu (22MIA1049)
-Shivam Thakur (22BPS1014)
-Ram Sasidhar Putcha (22MIA1055)
-Yasir Ahmad (22MIA1064)
+* Naveen Nidadavolu (22MIA1049)
+* Shivam Thakur (22BPS1014)
+* Ram Sasidhar Putcha (22MIA1055)
+* Yasir Ahmad (22MIA1064)
 
 ## Project Overview
 This project applies Quantum Machine Learning techniques to perform sentiment analysis on a dataset of tweets. By leveraging the power of quantum computation and natural language processing, we explore how quantum neural networks can enhance text classification tasks.
